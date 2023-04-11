@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "BEE2/drgregs/concrete/concretefloor023a_drgregs"
+	"$surfaceprop" "concrete"
+	
+        "$detail" "BEE2/drgregs/detail/noise_detail_01_drgregs"
+	"$detailscale" "7.345"
+	"$detailblendfactor" .6
+	"$detailblendmode" 0
+	"%keywords" "c17industrial Drgregs"
+}

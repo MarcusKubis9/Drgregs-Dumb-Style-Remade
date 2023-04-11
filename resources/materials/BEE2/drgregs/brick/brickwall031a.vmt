@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "BEE2/drgregs/Brick/brickwall031a"
+	"$surfaceprop" "brick"
+
+	"$detail" "BEE2/drgregs/detail/noise_detail_01"
+	"$detailscale" "7.740"
+	"$detailblendfactor" .8
+	"%noportal" 1
+	"$detailblendmode" 0
+	"%keywords" "c17downtown drgregs brick"
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"BEE2/drgregs/Fake_Sky/fake_skybox_gmod_style_1a"
+	"$surfaceprop" "plaster"
+	"%noportal" 1
+	"%keywords" "noportal ocean sky drgregs aperture tag"
+}

@@ -1,0 +1,186 @@
+"ID"    "DRGREGS_DUMB_STYLES"
+"Name"  "Drgregs' Dumb Styles"
+"Desc"  "Adds the Garry's Mod Style, The Rat-Man style, And the Cavern Style plus several critical resources.\n\nThis cannot be disabled!."
+
+"Prerequisites"
+	{
+	"Package"	"BEE2_CLEAN_STYLE"
+	}
+
+"Style"
+	{
+	"ID"          "DDS_GMOD_STYLE"
+	"Authors"     "Facepunch, Drgregs"
+	"Folder"      "Garrys_Mod_Style"
+	"Icon"        "styles/Gmod_Icon_v1.png"
+	"IconLarge"   "prev/GModStylePreview.jpg"
+	"Name"        "Garry's Mod Style"
+	"Base"        "BEE2_CLEAN"	
+	"Group"         "Drgregs"
+	"VPK_Name"  "VPK_BEE2_GMOD"
+	"Has_Video"   "1"
+	"Description" "Garry's Mod style, like GM_Construct or in the ending chapters of Aperture Tag . Similar to the default PeTI style but with Brick and White brick walls, Grass and White concrete floors, And A fake blue sky ceiling with fake clouds"
+	"Suggested"
+		{
+		"Quote"  "BEE2_GLADOS_CLEAN"
+		"Music"  "MEL_NATURAL_LIGHT"
+		"Skybox" "DDS_GMOD_SKY"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
+"Style"
+	{
+	"ID"          "DDS_CAVE_STYLE"
+	"Authors"     "Drgregs"
+	"Folder"      "Cave_Style_DDS"
+	"Icon"        "styles/Cave_Style_Preview.png"
+	"IconLarge"   "prev/CaveStylePreview.jpg"
+	"Name"        "Deep Cave Style"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_BEE2_CAVE"
+	"Group"         "Drgregs"
+	"Has_Video"   "1"
+	"Description" "Cave style, like Portal 2 Desolation. Similar to the default PeTI style but the black walls/ceilings are rock and the black floors are dirt patches."
+	"Suggested"
+		{
+		"Quote"  "BEE2_GLADOS_CLEAN"
+		"Music"  "MEL_TROUBLED_WATER"
+		"Skybox" "DDS_CAVE_SKY"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
+
+"Style"
+	{
+	"ID"          "DDS_DEV_STYLE"
+	"Authors"     "Drgregs"
+	"Folder"      "Dev_Style"
+	"Group"			"Drgregs"
+	"Icon"        "styles/dev_orange.png"
+	"IconLarge"   "prev/DeveloperStylePreview.jpg"
+	"Name"        "Developer Style"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_BEE2_DEV"
+	"Has_Video"   "1"
+	"Description" "This is a custom style that uses Developer textures"
+	"Suggested"
+		{
+		"Music"  "VALVE_PETI"
+		"Skybox" "DDS_DEV_AIR"
+		"Elev"   "VALVE_BLUESCREEN"
+		}
+	}
+
+"StyleVar"
+	{
+	"ID"          "DoorCameras"
+	"Enabled"     "1"
+	"Name"        "Door Cameras"
+	"Description" "Automatically add cameras around the entry and exit doors."
+	"Style"       "BEE2_CLEAN"
+	}
+
+"StyleVar"
+	{
+	"ID"          "RestartOnExit"
+	"Enabled"     "1"
+	"Name"        "Restart When Reaching Exit"
+	"Description" "Automatically restart the map once the player(s) have reached the exit."
+	"Style"       "BEE2_CLEAN"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_BEE2_GMOD"
+	"Filename" "garrysmod"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_BEE2_CAVE"
+	"Filename" "cave"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_BEE2_DEV"
+	"Filename" "developerstyle"
+	}
+
+"SkyBox"
+	{
+	"ID"            "DDS_CAVE_SKY"
+	"Name"          "Deep Cave Skybox"
+	"Group"         "Drgregs"
+	"Icon"          "skies/Cave_Style_Icon.png"
+	"IconLarge"     "prev/CaveSkyboxPreview.jpg"
+	"Material"      "sky_black"
+	"Authors"       "Drgregs"
+	"Description"   "A skybox with dark gray fog intended for the Cave style"
+	
+	"Fog"
+		{
+		"start"     "0"
+        "end"       "5000"
+        "density"   "0.95"
+        
+        "primaryColor"      "40 53 64"
+        
+        "tonemap_rate"          "0.25"
+        "tonemap_brightpixels"  "5"
+        "tonemap_exposure_min"  ".5"
+        "tonemap_exposure_max"  "3"
+		}
+	}
+
+"SkyBox"
+	{
+	"ID"            "DDS_DEV_AIR"
+	"Name"          "No Fog"
+	"Group"         "Drgregs"
+	"Icon"		"skies/dev_icon_air.png"
+	"IconLarge"     "prev/NoFogSkyboxPreview.jpg"
+	"Material"      "sky_day01_01"
+	"Authors"       "Drgregs"
+	"Description"   "This is a Skybox with no fog"
+	
+	"Fog"
+		{
+		"start"     "99999"
+        "end"       "99999"
+        "density"   "0"
+        
+        "primaryColor"      "0 0 0"
+        
+        "tonemap_rate"          "0.25"
+        "tonemap_brightpixels"  "5"
+        "tonemap_exposure_min"  ".5"
+        "tonemap_exposure_max"  "3"
+		}
+	}
+
+"SkyBox"
+	{
+	"ID"            "DDS_GMOD_SKY"
+	"Name"          "Garry's Mod Skybox"
+	"Group"         "Drgregs"
+	"Icon"		"skies/Gmod_Icon_v1_sky.png"
+	"IconLarge"     "prev/GModSkyboxPreview.jpg"
+	"Material"      "sky_day01_01"
+	"Authors"       "Drgregs"
+	"Description"   "Skybox ment for the GMOD style, This skybox has a nice bright blue fog."
+	
+	"Fog"
+		{
+		"start"     "128"
+        "end"       "5000"
+        "density"   "0.95"
+        
+        "primaryColor"      "154 220 227"
+        
+        "tonemap_rate"          "0.25"
+        "tonemap_brightpixels"  "5"
+        "tonemap_exposure_min"  ".5"
+        "tonemap_exposure_max"  "3"
+		}
+	}

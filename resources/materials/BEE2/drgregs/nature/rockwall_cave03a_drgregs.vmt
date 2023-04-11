@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"BEE2/drgregs/nature/rockwall_cave03a_drgregs"
+	"$surfaceprop"	"rock"
+	"$bumpmap" "BEE2/drgregs/nature/rockwall_cave_03a_height-ssbump_drgregs.vtf"
+	"$ssbump" "1"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "cubemaps/cubemap_cave01.vtf"
+	"%keywords" "ep2 drgregs rock"
+	"$seamless_scale" 0.005
+	"%noportal" 1
+
+	"LightmappedGeneric_hdr_dx9"
+	{
+	"$envmaptint" "[ .2 .2 .2 ]"
+	"$envmap" "cubemaps/cubemap_cave01.vtf"
+	}
+}

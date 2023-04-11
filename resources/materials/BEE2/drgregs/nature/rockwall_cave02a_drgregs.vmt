@@ -1,0 +1,20 @@
+LightmappedGeneric
+{
+	$basetexture "bee2/drgregs/nature/rockwall_cave02a_drgregs"
+	$bumpmap "bee2/drgregs/nature/rockwall_cave_02a_height-ssbump_drgregs"
+	$surfaceprop Concrete
+	$ssbump 1
+
+	$seamless_scale 0.005
+
+	$envmap "bee2/drgregs/cubemaps/cubemap_cave01"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.14 0.14 0.14]"
+	$envmapcontrast 0.09
+	$envmaplightscale 0.09
+	$envmaplightscaleminmax "[0 1.30]"
+
+	%keywords "ep2 drgregs"
+
+	%noportal 1
+}

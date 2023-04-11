@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+
+$basetexture "BEE2/drgregs/Dev/dev_measuregeneric01b_noportal"
+$surfaceprop concrete
+"%noportal" 1
+}
