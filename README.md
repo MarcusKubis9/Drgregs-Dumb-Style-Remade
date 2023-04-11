@@ -44,3 +44,7 @@ Novaprospekt,
 Citadel,
 Backrooms
 ```
+
+# If you make a map with my styles feel free to message me on discord!
+
+Drgregs#2105
