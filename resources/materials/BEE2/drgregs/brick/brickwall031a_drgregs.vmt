@@ -1,6 +1,6 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "BEE2/drgregs/Brick/brickwall031a"
+	"$basetexture" "BEE2/drgregs/Brick/brickwall031a_drgregs"
 	"$surfaceprop" "brick"
 
 	"$detail" "BEE2/drgregs/detail/noise_detail_01"
