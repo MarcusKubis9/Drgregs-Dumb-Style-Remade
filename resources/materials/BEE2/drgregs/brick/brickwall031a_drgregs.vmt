@@ -3,7 +3,7 @@
 	"$basetexture" "BEE2/drgregs/Brick/brickwall031a_drgregs"
 	"$surfaceprop" "brick"
 
-	"$detail" "BEE2/drgregs/detail/noise_detail_01"
+	"$detail" "BEE2/drgregs/detail/noise_detail_01_drgregs"
 	"$detailscale" "7.740"
 	"$detailblendfactor" .8
 	"%noportal" 1
