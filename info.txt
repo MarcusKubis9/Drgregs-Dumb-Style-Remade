@@ -40,7 +40,7 @@
 	"VPK_Name"  "VPK_BEE2_CAVE"
 	"Group"         "Drgregs"
 	"Has_Video"   "1"
-	"Description" "Cave style, like Portal 2 Desolation. Similar to the default PeTI style but the black walls/ceilings are rock and the black floors are dirt patches."
+	"Description" "Cave style, like Portal 2 Desolation. Similar to the default PeTI style but the black walls/ceilings are rock and the black floors There might be dirt patches in the future, Best used with angled blocks"
 	"Suggested"
 		{
 		"Quote"  "BEE2_GLADOS_CLEAN"
@@ -54,7 +54,7 @@
 	{
 	"ID"          "DDS_DEV_STYLE"
 	"Authors"     "Drgregs"
-	"Folder"      "Dev_Style"
+	"Folder"      "Dev_Style_substyle"
 	"Group"			"Drgregs"
 	"Icon"        "styles/dev_orange.png"
 	"IconLarge"   "prev/DeveloperStylePreview.jpg"
@@ -63,6 +63,70 @@
 	"VPK_Name"  "VPK_BEE2_DEV"
 	"Has_Video"   "1"
 	"Description" "This is a custom style that uses Developer textures"
+	"Suggested"
+		{
+		"Music"  "VALVE_PETI"
+		"Skybox" "DDS_DEV_AIR"
+		"Elev"   "VALVE_BLUESCREEN"
+		}
+	}
+
+"Style"
+	{
+	"ID"          "SUBSTYLE_GMOD_STYLE"
+	"Authors"     "Facepunch, Drgregs"
+	"Folder"      "Garrys_Mod_Style_substyle"
+	"Icon"        "styles/Gmod_Icon_v1_substyle.png"
+	"IconLarge"   "prev/GModStylePreview.jpg"
+	"Name"        "Unpolished Floor"
+	"Base"        "BEE2_CLEAN"	
+	"Group"         "Drgregs Sub Styles"
+	"VPK_Name"  "VPK_SUBSTYLE_GMOD"
+	"Has_Video"   "1"
+	"Description" "Sub-Style of the GMod style that has unpolished and uncut floor tiles,"
+	"Suggested"
+		{
+		"Quote"  "BEE2_GLADOS_CLEAN"
+		"Music"  "MEL_NATURAL_LIGHT"
+		"Skybox" "DDS_GMOD_SKY"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
+"Style"
+	{
+	"ID"          "SUBSTYLE_CAVE_STYLE"
+	"Authors"     "Drgregs"
+	"Folder"      "Cave_Style_DDS_substyle"
+	"Icon"        "styles/Cave_Style_Substyle.png"
+	"IconLarge"   "prev/CaveStylePreview.jpg"
+	"Name"        "Rocky Cave"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_SUBSTYLE_CAVE"
+	"Group"         "Drgregs Sub Styles"
+	"Has_Video"   "1"
+	"Description" "Sub-Style of the Cave Style where the floor is rocky, Also best used with angled blocks"
+	"Suggested"
+		{
+		"Quote"  "BEE2_GLADOS_CLEAN"
+		"Music"  "MEL_TROUBLED_WATER"
+		"Skybox" "DDS_CAVE_SKY"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
+
+"Style"
+	{
+	"ID"          "SUBSTYLE_DEV_STYLE"
+	"Authors"     "Drgregs"
+	"Folder"      "Dev_Style_substyle"
+	"Group"			"Drgregs Sub Styles"
+	"Icon"        "styles/dev_orange_substyle.png"
+	"IconLarge"   "prev/DeveloperStylePreview.jpg"
+	"Name"        "Solid Gray Dev"
+	"Base"        "BEE2_CLEAN"
+	"VPK_Name"  "VPK_SUBSTYLE_DEV"
+	"Has_Video"   "1"
+	"Description" "Sub-Style of Dev style that makes the unportalable walls, ceiling, and floor, a solid gray texture, unportalable walls are brighter"
 	"Suggested"
 		{
 		"Music"  "VALVE_PETI"
@@ -105,6 +169,24 @@
 	{
 	"ID"       "VPK_BEE2_DEV"
 	"Filename" "developerstyle"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_SUBSTYLE_GMOD"
+	"Filename" "substyle_garrysmod"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_SUBSTYLE_CAVE"
+	"Filename" "substyle_cave"
+	}
+
+"StyleVPK"
+	{
+	"ID"       "VPK_SUBSTYLE_DEV"
+	"Filename" "substyle_developerstyle"
 	}
 
 "SkyBox"
