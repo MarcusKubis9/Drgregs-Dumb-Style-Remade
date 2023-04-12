@@ -49,6 +49,9 @@ Backrooms
 
 Drgregs#2105
 
+# BETA DISCLAMER!
+Everything in the beta is not final, therefor is subject to change, Beta may include certain bugs, Please do not create maps using the beta
+
 # HOW TO INSTALL BETA:
 Step 1:
 Click on code than download zip
