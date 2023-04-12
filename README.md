@@ -51,3 +51,15 @@ Drgregs#2105
 
 # HOW TO INSTALL BETA:
 Step 1:
+Click on code than download zip
+
+Step 2:
+Remove the DDSR Package from Beemod packages folder if it exist there
+
+Step 3:
+Open the ZIP and drag and drop the DDSR Main folder into the beemod packages folder
+
+
+# HOW TO UNINSTALL THE BETA:
+
+Step 1: Delete the Drgregs Dumb Styles Packages folder
