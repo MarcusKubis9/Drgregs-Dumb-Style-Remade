@@ -22,7 +22,7 @@ This style has the black walls/ceiling turned into rocks, this style is best use
 
 
 
-Current Version ----> 1.2
+Current Version ----> 1.0.2
 
 Current styles:
 ```
