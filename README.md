@@ -48,3 +48,25 @@ Backrooms
 # If you make a map with my styles feel free to message me on discord!
 
 Drgregs#2105
+
+
+
+
+
+# BETA DISCLAMER!
+Everything in the beta is not final, therefor is subject to change, Beta may include certain bugs, Please do not create maps using the beta
+
+# HOW TO INSTALL BETA:
+Step 1:
+Click on code than download zip
+
+Step 2:
+Remove the DDSR Package from Beemod packages folder if it exist there
+
+Step 3:
+Open the ZIP and drag and drop the DDSR Main folder into the beemod packages folder
+
+
+# HOW TO UNINSTALL THE BETA:
+
+Step 1: Delete the Drgregs Dumb Styles Packages folder
