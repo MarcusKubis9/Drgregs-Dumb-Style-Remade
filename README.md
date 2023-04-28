@@ -35,14 +35,33 @@ Gmod style
 
 Planned Styles:
 ```
-Freezer,
-BTS Remade,
-Minecraft,
-Pre-hub Beta Stage,
-Rat-Man style,
-Novaprospekt,
-Citadel,
-Backrooms
+Freezer https://github.com/BEEmod/BEE2-items/issues/1548
+1990s
+Reconstructing
+Android Hell
+Refurbished
+BBBTS 
+Backrooms 
+PeTI
+Nova Prospekt 
+Prehub BETA stage 
+Citadel
+Ratman 
+Minecraft 
+BTSR 
+Red and White Dev 
+Thinking With Time Machine 
+Portal 1 BTS:Crosshair_Orange: 
+Future 
+Stanley Parable 
+Portal 1 BTS 
+Old Aperture BTS 
+Aperture Tag Ending Stage 
+Modernized Old Aperture  https://github.com/BEEmod/BEE2-items/issues/3781
+Roblox 
+One night at Flumptys
+
+And possibly the TF2 style but probably not
 ```
 
 # If you make a map with my styles feel free to message me on discord!
