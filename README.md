@@ -51,7 +51,6 @@ Minecraft
 BTSR 
 Red and White Dev 
 Thinking With Time Machine 
-Portal 1 BTS:Crosshair_Orange: 
 Future 
 Stanley Parable 
 Portal 1 BTS 
