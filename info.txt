@@ -19,7 +19,7 @@
 	"Group"         "Drgregs"
 	"VPK_Name"  "VPK_BEE2_GMOD"
 	"Has_Video"   "1"
-	"Description" "Garry's Mod style, like GM_Construct or in the ending chapters of Aperture Tag . Similar to the default PeTI style but with Brick and White brick walls, Grass and White concrete floors, And A fake blue sky ceiling with fake clouds"
+	"Description" "Garry's Mod style, like GM_Construct or in the ending chapters of Aperture Tag . Similar to the default PeTI style but with Brick and White brick walls, Grass and White concrete floors, And A fake blue sky ceiling with fake clouds, Recommended with 'allow block stairs' off (Style/Item properties > Default elements > Uncheck 'Allow block stairs')"
 	"Suggested"
 		{
 		"Quote"  "BEE2_GLADOS_CLEAN"
@@ -40,7 +40,7 @@
 	"VPK_Name"  "VPK_BEE2_CAVE"
 	"Group"         "Drgregs"
 	"Has_Video"   "1"
-	"Description" "Cave style, like Portal 2 Desolation. Similar to the default PeTI style but the black walls/ceilings are rock and the black floors There might be dirt patches in the future, Best used with angled blocks"
+	"Description" "Cave style, like Portal 2 Desolation. Similar to the default PeTI style but the black walls/ceilings are rock and the black floors There might be dirt patches in the future, Best used with angled blocks, Recommended with 'allow block stairs' off (Style/Item properties > Default elements > Uncheck 'Allow block stairs')"
 	"Suggested"
 		{
 		"Quote"  "BEE2_GLADOS_CLEAN"
@@ -54,7 +54,7 @@
 	{
 	"ID"          "DDS_DEV_STYLE"
 	"Authors"     "Drgregs"
-	"Folder"      "Dev_Style_substyle"
+	"Folder"      "Dev_Style"
 	"Group"			"Drgregs"
 	"Icon"        "styles/dev_orange.png"
 	"IconLarge"   "prev/DeveloperStylePreview.jpg"
@@ -62,7 +62,7 @@
 	"Base"        "BEE2_CLEAN"
 	"VPK_Name"  "VPK_BEE2_DEV"
 	"Has_Video"   "1"
-	"Description" "This is a custom style that uses Developer textures"
+	"Description" "The Developer Style is a custom style that has the orange textures portalable and the gray textures non-portalable, This was the first style made for the original DDS"
 	"Suggested"
 		{
 		"Music"  "VALVE_PETI"
@@ -83,7 +83,7 @@
 	"Group"         "Drgregs Sub Styles"
 	"VPK_Name"  "VPK_SUBSTYLE_GMOD"
 	"Has_Video"   "1"
-	"Description" "Sub-Style of the GMod style that has unpolished and uncut floor tiles,"
+	"Description" "Sub-Style of the GMod style that has unpolished and uncut floor tiles, Recommended with 'allow block stairs' off (Style/Item properties > Default elements > Uncheck 'Allow block stairs')"
 	"Suggested"
 		{
 		"Quote"  "BEE2_GLADOS_CLEAN"
@@ -104,7 +104,7 @@
 	"VPK_Name"  "VPK_SUBSTYLE_CAVE"
 	"Group"         "Drgregs Sub Styles"
 	"Has_Video"   "1"
-	"Description" "Sub-Style of the Cave Style where the floor is rocky, Also best used with angled blocks"
+	"Description" "Sub-Style of the Cave Style where the floor is rocky, Also best used with angled blocks, Recommended with 'allow block stairs' off (Style/Item properties > Default elements > Uncheck 'Allow block stairs')"
 	"Suggested"
 		{
 		"Quote"  "BEE2_GLADOS_CLEAN"
