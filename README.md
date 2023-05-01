@@ -33,7 +33,7 @@ Gmod style
 
 
 
-Planned Styles:
+Planned/PossibleStyles:
 ```
 Freezer https://github.com/BEEmod/BEE2-items/issues/1548
 1990s
