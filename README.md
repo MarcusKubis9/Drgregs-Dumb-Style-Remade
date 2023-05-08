@@ -1,5 +1,5 @@
 # Drgregs-Dumb-Styles-Remade
-
+## Scroll all the way down for download tutorial
 DDS is BACK! and coming in hot with 2 returning but improved styles and 1 New one
 
 ```
@@ -75,6 +75,14 @@ Drgregs#2105
 
 # BETA DISCLAMER!
 Everything in the beta is not final, therefor is subject to change, Beta may include certain bugs, Please do not create maps using the beta
+
+Installation:
+1. Download the latest release by clicking on the releases page on the right side of the screen than click on the file that ends with .bee_pack or .ZIP
+2. Open the "Packages" folder inside of the beemod folder
+3. Drag and drop the .bee_pack or .ZIP file into it
+4. Restart Beemod
+5. Enjoy
+
 
 # HOW TO INSTALL BETA:
 Step 1:
