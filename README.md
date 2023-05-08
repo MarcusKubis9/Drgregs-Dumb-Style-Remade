@@ -73,10 +73,9 @@ Drgregs#2105
 
 
 
-# BETA DISCLAMER!
-Everything in the beta is not final, therefor is subject to change, Beta may include certain bugs, Please do not create maps using the beta
 
-Installation:
+
+#Installation:
 1. Download the latest release by clicking on the releases page on the right side of the screen than click on the file that ends with .bee_pack or .ZIP
 2. Open the "Packages" folder inside of the beemod folder
 3. Drag and drop the .bee_pack or .ZIP file into it
@@ -84,7 +83,10 @@ Installation:
 5. Enjoy
 
 
-# HOW TO INSTALL BETA:
+## BETA DISCLAMER!
+Everything in the beta is not final, therefor is subject to change, Beta may include certain bugs, Please do not create maps using the beta
+
+## HOW TO INSTALL BETA:
 Step 1:
 Click on code than download zip
 
@@ -95,6 +97,6 @@ Step 3:
 Open the ZIP and drag and drop the DDSR Main folder into the beemod packages folder
 
 
-# HOW TO UNINSTALL THE BETA:
+## HOW TO UNINSTALL THE BETA:
 
 Step 1: Delete the Drgregs Dumb Styles Packages folder
