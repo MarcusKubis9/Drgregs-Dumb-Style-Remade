@@ -75,7 +75,7 @@ Drgregs#2105
 
 
 
-#Installation:
+# Installation:
 1. Download the latest release by clicking on the releases page on the right side of the screen than click on the file that ends with .bee_pack or .ZIP
 2. Open the "Packages" folder inside of the beemod folder
 3. Drag and drop the .bee_pack or .ZIP file into it
