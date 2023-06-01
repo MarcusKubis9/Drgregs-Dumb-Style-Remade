@@ -31,40 +31,6 @@ Cave style,
 Gmod style
 ```
 
-
-
-Planned/PossibleStyles:
-```
-Freezer https://github.com/BEEmod/BEE2-items/issues/1548
-1990s
-Reconstructing
-Android Hell
-Refurbished
-BBBTS 
-Backrooms 
-PeTI
-Nova Prospekt 
-Prehub BETA stage 
-Citadel
-Ratman 
-Minecraft 
-BTSR 
-Red and White Dev 
-Thinking With Time Machine 
-Future 
-Stanley Parable 
-Portal 1 BTS 
-Old Aperture BTS 
-Aperture Tag Ending Stage 
-Modernized Old Aperture  https://github.com/BEEmod/BEE2-items/issues/3781
-Roblox 
-One night at Flumptys
-Portal 1 RTX
-FStop
-
-And possibly the TF2 style but probably not
-```
-
 # If you make a map with my styles feel free to message me on discord!
 
 Drgregs#2105
