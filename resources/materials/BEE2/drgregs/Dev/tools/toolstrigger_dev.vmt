@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+
+$translucent 1
+$basetexture "Tools/toolstrigger"
+"srgb?$basetexture" "Tools/toolstrigger-dx10"
+"%keywords" "airexchange,borealis,c17downtown,c17industrial,c17sewers,c17skyscraper,c17trainstation,combine,kraken,wasteland"
+"%noportal" 1
+
+}

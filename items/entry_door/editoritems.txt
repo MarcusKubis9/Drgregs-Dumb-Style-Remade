@@ -1,0 +1,110 @@
+"Item"
+{
+	"Type"		"ITEM_ENTRY_DOOR"
+	"ItemClass"	"ItemEntranceDoor"
+	"Editor"
+	{
+		"SubType"
+		{
+			// Originally PORTAL2_PuzzleEditor_Item_entry_door, but that isn't defined.
+			"Name"			"Entry Door"
+			"Model"
+			{
+				"ModelName"		"doorentry.3ds"
+			}
+			"Palette"
+			{
+				"Tooltip"	"ENTRY DOOR"
+				"Image"		"palette/entry_door.png"
+			}
+		}
+		"MovementHandle"		"HANDLE_NONE"
+		"InvalidSurface"		"CEILING FLOOR"
+		"Deletable"		"0"
+		"Copyable"		"0"
+	}
+	"Properties"
+	{
+		"CoopDoor"
+		{
+			"DefaultValue"		"0"
+			"Index"		"0"
+		}
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			// Corridor instances 0-7 added specially by compiler!
+			"7"
+			{
+				"Name"				"instances/BEE2/clean/elevator_sp/door_frame_white.vmf"
+				"EntityCount"		"1"
+				"BrushCount"		"27"
+				"BrushSideCount"	"188"
+			}
+			"8"
+			{
+				"Name"				"instances/BEE2/clean/elevator_sp/door_frame_black.vmf"
+				"EntityCount"		"1"
+				"BrushCount"		"27"
+				"BrushSideCount"	"188"
+			}
+
+			// NOTE: Elevator instances must go after door instances
+			"9"
+			{
+				"Name"				"instances/BEE2/clean/elevator_sp/elevator_entrance/common.vmf"
+				"EntityCount"		"215"
+				"BrushCount"		"296"
+				"BrushSideCount"	"2468"
+			}
+			"10"
+			{
+				"Name"				"instances/BEE2/clean/elevator_sp/elevator_exit.vmf"
+				"EntityCount"		"222"
+				"BrushCount"		"347"
+				"BrushSideCount"	"2823"
+			}
+			"11"
+			{
+				"Name"				"instances/BEE2/arrival_departure_transition_ents.vmf"
+				"EntityCount"		"22"
+				"BrushCount"		"21"
+				"BrushSideCount"	"126"
+			}
+		}
+
+		"TargetName"		"doorentry"
+		"Offset"		"64 64 0"
+		"OccupiedVoxels"
+		{
+			"Voxel"
+			{
+				"Pos"		"0 0 0"
+				"Surface"
+				{
+					"Normal"	"0 0 1"
+				}
+			}
+		}
+		"EmbeddedVoxels"
+		{
+			"Volume"
+			{
+				"Pos1"		"-1 -1 0"
+				"Pos2"		"1 1 -3"
+			} 
+		}
+		// Added to allow the door frame to be colored.
+		"EmbedFace"
+		{
+			"Solid"
+			{
+				"Center"     "64 64 128"
+				"Dimensions" "128 128 4"
+				"Grid"       "4x4"
+			}
+		}
+	}
+}

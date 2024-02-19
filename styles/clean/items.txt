@@ -1,0 +1,50 @@
+"Item"
+	{
+	"Type"		"ITEM_POINT_LIGHT"
+
+	"Exporting"
+		{
+		"Instances"
+			{
+			"0"
+				{
+				"Name"			"instances/BEE2/clean/point_light.vmf"
+				"EntityCount"	"0"
+				}
+			}
+
+		"TargetName"		"plight"
+		"Offset"		"64 64 64"
+		}
+	}
+
+"Renderables"
+	{
+	"Item"
+		{
+		"Type"		"ErrorState"
+		"Model"		"error_state.3ds"
+
+		"Animations"
+			{
+			"ANIM_ICON_SHOW"		"1"
+			"ANIM_ICON_IDLE"		"2"
+			"ANIM_ICON_HIDE"		"3"
+			}
+		}
+	"Item"
+		{
+		"Type"		"ConnectionHeartSolid"
+		"Model"		"heart.3ds"
+
+		"Animations"
+			{
+			"ANIM_ICON_SHOW"				"2"
+			"ANIM_ICON_IDLE"				"0"
+			"ANIM_ICON_HEART_BREAK"			"1"
+			"ANIM_ICON_HIDE"				"3"
+			"ANIM_ICON_HEART_SUCCESS"		"4"
+			"ANIM_ICON_HEART_HAPPY_IDLE"	"5"
+			}
+		}
+	}

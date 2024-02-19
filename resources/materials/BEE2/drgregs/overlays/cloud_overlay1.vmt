@@ -1,0 +1,7 @@
+LightMappedGeneric
+{
+$basetexture "BEE2/drgregs/overlays/cloud_overlay1"
+$surfaceprop default
+$translucent 1
+$decal 1
+}
